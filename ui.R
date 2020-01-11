@@ -1,5 +1,5 @@
 ui = bootstrapPage(fluidPage(
-    titlePanel('Probability of Rubella Based on Eye Outcomes (PRBEO Nomogram)'),
+    titlePanel('PORBEO Nomogram - Probability of Rubella Based on Eye Outcomes'),
     sidebarLayout(sidebarPanel(uiOutput('manySliders'),
                                uiOutput('setlimits'),
                                actionButton('add', 'Predict'),
