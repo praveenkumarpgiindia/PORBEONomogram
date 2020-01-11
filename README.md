@@ -21,7 +21,7 @@ Department of Ophthalmology,
 PGIMER, 
 Chandigarh - 160012
 
-## For technical queries
+## For technical queries:
 
 Dr Praveen Kumar M, 
 DM Resident, Clinical Pharmacology, 
